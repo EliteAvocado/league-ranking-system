@@ -75,7 +75,7 @@ To remove it simply run:
 
 ## pics
 
-This directory contains the picture of the model created
+This directory contains pictures of the model created
 using the Oracle SQL Developer Data Modeler.
 
 ## src
