@@ -28,12 +28,12 @@ In general there's no instant account deletion or disbandment of a team,
 instead one would start the process and after a set amount of time passed
 the account should be deleted or team disbanded.
 
-![alt text](./pics/par1.png "Accounts, Players, Teams")
+![alt text](./pics/part_1.png "Accounts, Players, Teams")
 
 There's also a whole ranking system, including different leagues, seasons and promotions.
 There are matches and match modes and of course a player ranking, team ranking and a ranking history.
 
-![alt text](./pics/par2.png "League and Ranking System")
+![alt text](./pics/part_2.png "League and Ranking System")
 
 The complete ERP model in Barker notation can be seen here:
 
