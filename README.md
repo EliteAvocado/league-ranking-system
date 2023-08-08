@@ -8,7 +8,7 @@ There are a number of procedures that simplify the usage, as well as multiple tr
 For more information simply look through the soruce files [0_tables.sql](./src/0_tables.sql), [1_constraints.sql](./src/1_constraints.sql) and [2_logic.sql](./src/2_logic.sql) which are all meticulously commented.
 There are also comments on all tables and even their individual columns which you could access inside PostgreSQL itself.
 
-This project was developed as part of the course "Datenbanken IIA: Datenbank-Entwurf" 2021/2022.
+This project was developed as part of the course "Datenbankentwurf (Datenbanken IIA)" WS2021/2022.
 
 # How it is set up?
 
