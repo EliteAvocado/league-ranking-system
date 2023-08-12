@@ -1,8 +1,8 @@
 
 # League Ranking System
 
-This is a simple league ranking system how it is commonly used in online videogames using PostgreSQL,
-including an ERP model in Barker notation and a relational model that were built using Oracle SQL Developer Data Modeler.
+This is a simple league and ranking system how it is commonly used in online videogames.
+It was fully implemented using PostgreSQL and includes an ERP model in Barker notation and a relational model that were built using Oracle SQL Developer Data Modeler.
 
 There are a number of procedures that simplify the usage, as well as multiple triggers and constraints to ensure correctness.
 For more information simply look through the soruce files [0_tables.sql](./src/0_tables.sql), [1_constraints.sql](./src/1_constraints.sql) and [2_logic.sql](./src/2_logic.sql) which are all meticulously commented.
