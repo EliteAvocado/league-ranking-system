@@ -28,6 +28,11 @@ In general there's no instant account deletion or disbandment of a team,
 instead one would start a process and after a set amount of time passed
 the account should be deleted or team disbanded using a procedure that periodically get's called by cronjob.
 
+In practice it would probably be a better call to have the Accounts table as part of a separate database
+and only use it's contents for the creation of the entries inside the Players table. In this case every videogame should
+also get a unique id assigned which could then be used together with the player id for authentication. That way the player ids only have
+to be unique inside a specific videogame database.
+
 ![alt text](./pics/part_1.png "Accounts, Players, Teams")
 
 There's also a whole ranking system, including different leagues, seasons and promotions.
