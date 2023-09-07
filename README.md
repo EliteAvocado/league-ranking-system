@@ -10,7 +10,7 @@ There are also comments on all tables and even their individual columns which yo
 
 This project was developed as part of the course "Datenbankentwurf (Datenbanken IIA)" WS2021/2022.
 
-# How it is set up?
+# How is it set up?
 
 Theres an accounts table which would typically be populated using the data from a website that
 users would use to register.
