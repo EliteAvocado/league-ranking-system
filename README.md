@@ -1,5 +1,5 @@
 
-# League Ranking System
+# League Ranking System [![LICENSE](https://img.shields.io/badge/LICENSE-Apache_2.0-green)](./LICENSE)
 
 This is a simple league and ranking system how it is commonly used in online videogames.
 It was fully implemented using PostgreSQL and includes an ERP model in Barker notation and a relational model that were built using Oracle SQL Developer Data Modeler.
